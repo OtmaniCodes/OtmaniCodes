@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AhmedCodor.svg?style=social&label=Followers)](https://github.com/AhmedCodor?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Daughter&color=116530&size=30&lines=Hey!+It's+Ahmed!;I'm+a+Flutter+Developer...;I'm+also+a+Pythonista;And+I'm+an+apps+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Ahmed!;I'm+a+Flutter+Developer...;I'm+also+a+Pythonista;And+I'm+an+apps+developer.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=AhmedCodor&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
@@ -14,7 +14,7 @@
 <!-- - 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter -->
 - 👯 I’m looking to collaborate on Flutter Projects.
 - 🤔 I’m lalso working as a Freelancer at Upwork.
-- 💬 Ask me about anything you want about Programming or apps Development.
+- 💬 Ask me anything you want about Programming or apps Development.
 - 📽 I also publish YouTube videos regularly...[YouTube Channel](https://www.youtube.com/channel/UCNFmUzWMC5uzy8by0hJf9-Q)
 <!-- - 📫 I am also a technical writer at Medium 
 -  📰 Articles: 
