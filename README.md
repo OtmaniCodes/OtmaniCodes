@@ -1,4 +1,4 @@
-### Hello there visitor! 👋
+### Hello there visitor 👋
 
 <img src="https://profile-counter.glitch.me/AhmedCodor/count.svg">
 
