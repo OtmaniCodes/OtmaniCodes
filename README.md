@@ -8,10 +8,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=AhmedCodor&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
-<h3> Here's some fun facts about me: </h3>
+<h3> Here's some facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects.
-<!-- - 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter -->
+- 🔭 I’m currently working on Projects.
 - 👯 I’m always happy to collaborate on projects.
 - 💬 Ask me anything you want about programming or app Development.
 - 🤔 I work as a [Freelancer](https://www.upwork.com/freelancers/~01981efc85895fb5c8) at Upwork.
