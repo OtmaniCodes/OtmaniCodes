@@ -149,7 +149,3 @@
 
 
 <br/>
-
-------
-Credit: [AhmedCodor](https://github.com/AhmedCodor)
-Last Edited on: 02/12/2021
