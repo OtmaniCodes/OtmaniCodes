@@ -29,27 +29,29 @@
 &emsp;
 <a target="_blank" href="https://medium.com/@ahmedcodor"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
-
+<br>
 <br>
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a <strong>Neovim</strong> user. 😎 
 <hr>
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AhmedCodor&theme=chartreuse-dark" alt="ahmedelotmani"  /></p>
 
-<hr>
+
 <!-- <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedCodor&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedCodor&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
+-->
 
-<hr> -->
+### 🔥 Streak Stats
 
 
+<p align="start"><img src="https://github-readme-stats.vercel.app/api?username=AhmedCodor&theme=chartreuse-dark" alt="ahmedelotmani"  /></p>
+
+<hr>
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Programming Languages
 
 <p align="left"> 
   <a href="https://dart.dev/">
@@ -57,14 +59,20 @@
   </a>
 &emsp;
 <a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-234D70?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+&emsp;
+<a href="https://www.javascript.com/">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FCDC2B?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+&emsp;
+<a href="https://www.php.net//">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white"/>
   </a>
 <!--   &emsp;
 <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a> -->
-
-
 </p>
 
 ### 👉 Frameworks
@@ -72,6 +80,14 @@
 &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+   </a>
+&emsp;
+  <a href="https://react.dev/" target="_blank"> 
+     <img alt="ReactJs" src="https://img.shields.io/badge/ReactJS-FFFFFF?style=for-the-badge&logo=react&logoColor=077EA4">
+   </a>
+&emsp;
+  <a href="https://laravel.com/" target="_blank"> 
+     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-F4422E?style=for-the-badge&logo=laravel&logoColor=white">
    </a>
 <!--   &emsp; 
   <a href="https://www.tensorflow.org/" target="_blank"> 
@@ -90,10 +106,11 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-<!--   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> -->
   &emsp;
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+&emsp;
+<a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-20303B?style=for-the-badge&logo=mongodb&logoColor=216149"/></a>
+
  </p>
 
  ### 👉 Software & Tools
