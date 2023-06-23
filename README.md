@@ -27,23 +27,23 @@
 &emsp;
 <a target="_blank" href="https://twitter.com/AhmedCodor"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@ahmedcodor"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
 
 <br>
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am a movie lover. 😎 
-
+- ⚡ Fun fact: ... I am a <strong>Neovim</strong> user. 😎 
+<hr>
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AhmedCodor&theme=chartreuse-dark" alt="ahmedelotmani"  /></p>
 
 <hr>
-<p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<!-- <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedCodor&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedCodor&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-<hr>
+<hr> -->
 
 
 
