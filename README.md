@@ -21,7 +21,6 @@
 
 <h3>Connect with me on</h3>
 <br>
-<br>
 <a target="_blank" href="https://linkedin.com/in/ahmed-el-otmani-0072b51b4"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:ahmedelotmani200@gmail.com"
