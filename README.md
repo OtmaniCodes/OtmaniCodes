@@ -47,10 +47,6 @@
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=AhmedCodor&theme=chartreuse-dark&hide_border=true&area=true)
-
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
