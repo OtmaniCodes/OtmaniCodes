@@ -20,7 +20,6 @@
 	- [Mastering the Flutter Development Environment: A Step-by-Step Guide](https://ahmedcodor.medium.com/mastering-the-flutter-development-environment-a-step-by-step-guide-d8adec7fde93)
 
 <h3>Connect with me on</h3>
-<br>
 <a target="_blank" href="https://linkedin.com/in/ahmed-el-otmani-0072b51b4"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:ahmedelotmani200@gmail.com"
@@ -28,7 +27,7 @@
 &emsp;
 <a target="_blank" href="https://twitter.com/AhmedCodor"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
-<!-- <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a> -->
+<a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
 
 <br>
