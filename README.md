@@ -47,7 +47,7 @@
 ### 🔥 Streak Stats
 
 
-<p align="start"><img src="https://github-readme-stats.vercel.app/api?username=AhmedCodor&theme=chartreuse-dark" alt="ahmedelotmani"  /></p>
+<p align="start"><img src="https://github-readme-stats.vercel.app/api?username=OtmaniCodes&theme=chartreuse-dark" alt="ahmedelotmani"  /></p>
 
 <hr>
 
