@@ -76,7 +76,7 @@
 
 ### 👉 Frameworks
 <p align="left"> 
-&emsp;
+
   <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
    </a>
@@ -86,7 +86,7 @@
    </a>
 &emsp;
   <a href="https://nextjs.org/" target="_blank"> 
-     <img alt="NextJs" src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=Next&logoColor=white">
+     <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
    </a>	
 &emsp;
   <a href="https://laravel.com/" target="_blank"> 
