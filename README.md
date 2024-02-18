@@ -85,6 +85,10 @@
      <img alt="ReactJs" src="https://img.shields.io/badge/ReactJS-FFFFFF?style=for-the-badge&logo=react&logoColor=077EA4">
    </a>
 &emsp;
+  <a href="https://nextjs.org/" target="_blank"> 
+     <img alt="NextJs" src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=Next&logoColor=white">
+   </a>	
+&emsp;
   <a href="https://laravel.com/" target="_blank"> 
      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-F4422E?style=for-the-badge&logo=laravel&logoColor=white">
    </a>
