@@ -9,14 +9,16 @@
 
 <h3> Here's some facts about me: </h3>
 
-- 🔭 I’m currently working on Projects.
+- 🔭 I’m currently looking for work.
 - 👯 I’m always happy to collaborate on projects.
 - 💬 Ask me anything you want about programming or app Development.
-- 🤔 I work as a [Freelancer](https://www.upwork.com/freelancers/~01981efc85895fb5c8) at Upwork.
+- 🤔 I [freelance](https://www.upwork.com/freelancers/~01981efc85895fb5c8) at Upwork.
+<!--
 - 📫 I am also a technical writer at Medium.
 -  📰 Articles: 
   	- [Mastering the Widget Tree: Unraveling the Core of Flutter App Development](https://ahmedcodor.medium.com/mastering-the-widget-tree-unraveling-the-core-of-flutter-app-development-f9182b7c50a4) 
-	- [Mastering the Flutter Development Environment: A Step-by-Step Guide](https://ahmedcodor.medium.com/mastering-the-flutter-development-environment-a-step-by-step-guide-d8adec7fde93)
+	- [Mastering the Flutter Development Environment: A Step-by-Step Guide](https://ahmedcodor.medium.com/mastering-the-flutter-development-environment-a-step-by-step-guide-d8adec7fde93) 
+-->
 
 <h3>Connect with me on</h3>
 <a target="_blank" href="https://linkedin.com/in/ahmed-el-otmani-0072b51b4"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
