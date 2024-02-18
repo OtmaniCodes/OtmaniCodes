@@ -105,7 +105,7 @@
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
-  &emsp;
+ 
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
@@ -121,7 +121,7 @@
 <p>
 <!--   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> -->
-  &emsp;
+
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <!--   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a> -->
