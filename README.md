@@ -31,7 +31,7 @@
 <br>
 <br>
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am a <strong>Neovim</strong> user. 😎 
+- ⚡ Fun fact: ... I use <strong>Neovim</strong> to code. 😎 
 <hr>
 
 
