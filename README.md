@@ -9,7 +9,7 @@
 
 <h3> Here's some facts about me: </h3>
 
-- 🔭 I’m currently working working remote.
+- 🔭 I’m currently working remote.
 - 👯 I’m always happy to collaborate on projects.
 - 💬 Ask me anything you want about programming or app Development.
 - 🤔 I [freelance](https://www.upwork.com/freelancers/~01981efc85895fb5c8) at Upwork.
