@@ -73,11 +73,6 @@ I’m a **Neovim** power user — keyboard efficiency is life! 😎
 
 ---
 
-## 😄 Pronouns
-
-He/Him
-
----
 
 <!-- Uncomment to show GitHub stats -->
 
