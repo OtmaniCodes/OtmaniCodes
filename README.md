@@ -10,7 +10,7 @@
 
 I'm Ahmed — a solo full-stack dev based in Tangier 🇲🇦, building and shipping consumer AI apps end to end: idea, code, App Store review, paywall, growth.
 
-Most of what I do lives at the seam between **mobile/web frontends** and **generative AI pipelines** — video generation, image generation, voice, and LLM workflows wired into products people actually pay for. I run **Draxelx LLC**, where I ship my own apps, and I contract as a developer for AI startups on the side.
+Most of what I do lives at the seam between **mobile/web frontends** and **generative AI pipelines** — video generation, image generation, voice, and LLM workflows wired into products people actually pay for. I ship my own apps, and contract as a developer for AI startups on the side.
 
 Three years in, 10+ apps launched on iOS and Android.
 
