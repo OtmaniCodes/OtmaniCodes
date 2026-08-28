@@ -22,7 +22,6 @@ Six years in, 10+ apps launched on iOS and Android.
 - Building **Next.js + TypeScript** dashboards, landing pages, and internal tools
 - Wiring up generative pipelines with **fal.ai**, **Gemini / Vertex AI**, **OpenRouter**, **ElevenLabs**, and **Remotion Lambda**
 - Learning the unglamorous half of the job — ASO, paywall economics, retention, ad creative
-- Building in public on X → [@otmanibuilds](https://twitter.com/otmanibuilds)
 - Open to freelance work on [Upwork](https://www.upwork.com/freelancers/~01981efc85895fb5c8) and collabs
 
 ---
@@ -76,7 +75,7 @@ Six years in, 10+ apps launched on iOS and Android.
 
 ## 🌐 Let's Connect!
 
-[![X](https://img.shields.io/badge/-@otmanibuilds-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/otmanibuilds)
+[![X](https://img.shields.io/badge/-@otmanicodes-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/otmanicodes)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedelotmani)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedelotmani200@gmail.com)
 
