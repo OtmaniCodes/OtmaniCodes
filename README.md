@@ -27,20 +27,6 @@ Three years in, 10+ apps launched on iOS and Android.
 
 ---
 
-## 📦 Things I've Shipped
-
-| App | What it is | Stack |
-|---|---|---|
-| **GymBro AI** | AI fitness coach, live on iOS + Android | Flutter · Riverpod · Supabase · OpenRouter · Superwall |
-| **DebaterX** | Turns brands into AI debate videos | Flutter · fal.ai · Remotion |
-| **Manga Me** | Character-consistent AI manga generator | Flutter · Nanobanana / fal.ai · Supabase |
-| **Voxcalm** | Daily affirmations, generated + voiced | Flutter · ElevenLabs |
-| **Sim Yourself** | BitLife-style AI life simulator | Flutter · DeepSeek via OpenRouter · Hive |
-
-Plus client work: AI video editors, dating coaches, image/video generation apps, ad distribution tooling, and a pile of Next.js dashboards.
-
----
-
 ## 🛠️ My Toolbox
 
 ### Languages
