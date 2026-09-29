@@ -8,10 +8,6 @@
 
 ## 🚀 About Me
 
-I'm Ahmed — a solo full-stack dev based in Tangier 🇲🇦, building and shipping consumer AI apps end to end: idea, code, App Store review, paywall, growth.
-
-Most of what I do lives at the seam between **mobile/web frontends** and **generative AI pipelines** — video generation, image generation, voice, and LLM workflows wired into products people actually pay for..
-
 Six years in, 10+ apps launched on iOS and Android.
 
 ---
