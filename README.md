@@ -16,16 +16,6 @@ Six years in, 10+ apps launched on iOS and Android.
 
 ---
 
-## 🔭 What I'm Currently Up To
-
-- Shipping AI consumer apps in **Flutter** (Riverpod, Supabase, Superwall)
-- Building **Next.js + TypeScript** dashboards, landing pages, and internal tools
-- Wiring up generative pipelines with **fal.ai**, **Gemini / Vertex AI**, **OpenRouter**, **ElevenLabs**, and **Remotion Lambda**
-- Learning the unglamorous half of the job — ASO, paywall economics, retention, ad creative
-- Open to freelance work on [Upwork](https://www.upwork.com/freelancers/~01981efc85895fb5c8) and collabs
-
----
-
 ## 🛠️ My Toolbox
 
 ### Languages
