@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ahmed!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Ahmed!;I+ship+AI+apps+solo.;Flutter+%2B+Next.js+%2B+Python;10%2B+apps+on+the+stores.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Ahmed!;I+ship+apps+&+agents.;Flutter+%2B+Next.js+%2B+Python;10%2B+apps+on+the+stores.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=AhmedCodor&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile views on GitHub" />
 
