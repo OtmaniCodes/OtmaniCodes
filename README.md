@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Six years in, 10+ apps launched on iOS and Android.
+Eight years in, 100+ apps launched on iOS and Android.
 
 ---
 
